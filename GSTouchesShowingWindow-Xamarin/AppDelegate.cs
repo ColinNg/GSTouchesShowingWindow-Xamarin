@@ -10,10 +10,18 @@ namespace GSTouchesShowingWindowXamarin
     {
         // class-level declarations
 
+        UIWindow customWindow;
         public override UIWindow Window
         {
-            get;
-            set;
+            get
+            {
+                customWindow = customWindow ?? new GSTouchesShowingWindow();
+                return customWindow;
+            }
+            set
+            {
+                Window = value;
+            }
         }
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
