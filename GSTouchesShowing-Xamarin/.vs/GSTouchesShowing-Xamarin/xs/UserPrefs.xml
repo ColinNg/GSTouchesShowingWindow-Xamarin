@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2294049F-3C31-4399-972D-8387403B74EA}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="GSTouchesShowing-Xamarin/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GSTouchesShowing-Xamarin PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.GSTouchesShowing-Xamarin>
+</Properties>

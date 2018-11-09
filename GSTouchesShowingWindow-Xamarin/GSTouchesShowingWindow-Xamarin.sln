@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSTouchesShowingWindow-Xamarin", "GSTouchesShowingWindow-Xamarin.csproj", "{BC196F36-11A8-4937-AEB7-464E9386B7D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC196F36-11A8-4937-AEB7-464E9386B7D0}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BC196F36-11A8-4937-AEB7-464E9386B7D0}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BC196F36-11A8-4937-AEB7-464E9386B7D0}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BC196F36-11A8-4937-AEB7-464E9386B7D0}.Release|iPhone.Build.0 = Release|iPhone
+		{BC196F36-11A8-4937-AEB7-464E9386B7D0}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BC196F36-11A8-4937-AEB7-464E9386B7D0}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BC196F36-11A8-4937-AEB7-464E9386B7D0}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BC196F36-11A8-4937-AEB7-464E9386B7D0}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
