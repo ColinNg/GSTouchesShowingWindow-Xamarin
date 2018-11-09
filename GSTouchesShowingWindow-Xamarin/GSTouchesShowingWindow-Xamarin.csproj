@@ -89,6 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="GSTouchesShowingWindow-Xamarin\" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />
@@ -105,6 +106,15 @@
     <Compile Include="ViewController.designer.cs">
       <DependentUpon>ViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="GSTouchesShowingWindow-Xamarin\Constants.cs" />
+    <Compile Include="GSTouchesShowingWindow-Xamarin\GSTouchesShowingController.cs" />
+    <Compile Include="GSTouchesShowingWindow-Xamarin\GSTouchesShowingWIndow.cs" />
+    <Compile Include="GSTouchesShowingWindow-Xamarin\GSTouchImageViewQueue.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\GSTouchImageBlue.png" />
+    <BundleResource Include="Resources\GSTouchImageBlue%402x.png" />
+    <BundleResource Include="Resources\GSTouchImageBlue%403x.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
