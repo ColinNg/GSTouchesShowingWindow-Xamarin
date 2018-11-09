@@ -1,3 +1,14 @@
+# GSTouchesShowingWindow-Xamarin
+
+This is a port of Lukáš Petr's [GSTouchesShowingWindow-Swift](https://github.com/LukasCZ/GSTouchesShowingWindow-Swift). 
+
+My port is crashy and buggy, but it works for making short App Preview videos. 
+
+I haven't had time to update this README file, so its original contents are below. 
+
+--
+
+
 # GSTouchesShowingWindow-Swift
 
 A simple tool that automatically **shows all touches** inside your app as they are happening, using a circular image indicator. It's useful for creating **App Previews** for the App Store or any kind of **app videos** where you need to demonstrate some rich user interaction that would be hard to showcase otherwise.
